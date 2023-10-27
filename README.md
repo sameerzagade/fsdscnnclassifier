@@ -11,7 +11,7 @@
 4.component
 5.pipeline
 6.training
-7.predeiction
+7.prediction
 8.test your package
 9.dvc for the reprodcuing the pipeline
 
